@@ -1,0 +1,1 @@
+Each API key is subject to a limit of 1,000 requests per hour. If this threshold is exceeded, the API will return a 429 status code until the rate window resets. Premium plans offer higher rate limits and custom throttling rules.
