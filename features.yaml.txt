@@ -1,0 +1,1 @@
+Feature flags must be declared in the config/features.yaml file before deployment. Dynamic changes to feature flags at runtime are not supported. Each flag must include a name, description, and a default state (enabled or disabled).
