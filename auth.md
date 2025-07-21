@@ -1,0 +1,1 @@
+Users must authenticate using OAuth2. No alternative login methods are supported. Token expiration is set to 60 minutes by default, and refresh tokens can be configured to extend sessions without reauthentication.
