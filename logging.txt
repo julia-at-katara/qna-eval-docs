@@ -1,0 +1,1 @@
+The application logs are written to stdout and collected by the default log aggregator. Log levels can be configured using the LOG_LEVEL environment variable. Supported levels include DEBUG, INFO, WARNING, and ERROR. Monitoring integrations are available via Prometheus exporters.
